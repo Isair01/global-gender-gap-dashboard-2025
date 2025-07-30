@@ -45,9 +45,8 @@ Focused on regional and comparative insights:
 | File | Description |
 |------|-------------|
 | [`GenderGap_Dashboard.pbix`](https://github.com/Isair01/global-gender-gap-dashboard-2025/blob/main/Gender_Gap_Index_2025.pbix) | Power BI project file |
-| `https://github.com/Isair01/global-gender-gap-dashboard-2025/blob/main/global-gender-gap-index-rank-and-score-2025-data%201.xls` | Cleaned dataset |
-| `(https://github.com/Isair01/global-gender-gap-dashboard-2025/blob/main/GenderGap_Dashboard_Page2_Insights.png.png)` | Screenshot of Page 1 |
-| `https://github.com/Isair01/global-gender-gap-dashboard-2025/blob/main/GenderGap_Dashboard_Page2_Insights.png.png` | Screenshot of Page 2 |
+|[`Dashboard_Page1_Overview.png`](https://github.com/Isair01/global-gender-gap-dashboard-2025/blob/main/GenderGap_Dashboard_Page1_Overview.png.png) | Screenshot of Page 1 |
+| [`Dashboard_Page2_Insights.png`](https://github.com/Isair01/global-gender-gap-dashboard-2025/blob/main/GenderGap_Dashboard_Page2_Insights.png.png) | Screenshot of Page 2 |
 | `README.md` | This project summary |
 
 ## 🚀 How to Use or View
