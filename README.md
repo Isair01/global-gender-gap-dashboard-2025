@@ -9,7 +9,7 @@ This project visualizes and analyzes gender equality across countries using the 
 - **Fields Included**:
   - Country ISO3
   - Country Name
-  - Edition (Year)
+  - Edition
   - Global Gender Gap Index Score
   - Global Gender Gap Index Rank
 
@@ -49,7 +49,7 @@ Focused on regional and comparative insights:
 | [`Dashboard_Page2_Insights.png`](https://github.com/Isair01/global-gender-gap-dashboard-2025/blob/main/GenderGap_Dashboard_Page2_Insights.png.png) | Screenshot of Page 2 |
 | `README.md` | This project summary |
 
-## 🚀 How to Use or View
+## How to Use or View
 1. **Download** the `.pbix` file
 2. Alternatively, view exported images or PDFs for a quick snapshot.
 
@@ -61,7 +61,7 @@ Focused on regional and comparative insights:
 
 ## 🧹 Tools Used
 - **Power BI Desktop**
-- **Excel** (for data cleaning)
+- **Excel** 
 - **Conditional formatting & KPIs**
 - **Choropleth maps & scatter visuals**
 
